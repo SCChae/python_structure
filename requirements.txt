@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+# Example:
+# numpy==1.13.3
+
+fire==0.4.0
